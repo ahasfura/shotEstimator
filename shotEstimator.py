@@ -39,4 +39,4 @@ def shotEstimator(player,x,y,numYears):
 	else:
 		return "no shots taken there"
 
-print shotEstimator("Shaquille O'Neal",25,5,3)
+print shotEstimator("Shaquille O'Neal",25,5,1)
